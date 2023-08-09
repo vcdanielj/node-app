@@ -1,8 +1,6 @@
 
 Installation
 
-git clone https://github.com/FaztWeb/first-node-express-app
-
 move to the folder
 cd first-node-express-app
 
